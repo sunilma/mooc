@@ -1,0 +1,7 @@
+submit request from Form after Save button clicked
+
+form data sent to server using ajax
+
+new note created and sent back to display using ajax
+
+log on console with message "note created"

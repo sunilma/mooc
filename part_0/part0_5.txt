@@ -1,0 +1,9 @@
+GET request to server: https://fullstack-exampleapp.herokuapp.com/spa
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/main.css
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/spa.js
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/data.json
+
+code executes to display data stored in data.json

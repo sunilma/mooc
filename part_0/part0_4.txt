@@ -1,0 +1,15 @@
+Form submit action
+
+POST request to server and Redirect to /new_note
+
+Redirect causes app to reload
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/notes
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/main.css
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/main.js
+
+GET request to server: https://fullstack-exampleapp.herokuapp.com/data.json
+
+code executes to display data stored in data.json
